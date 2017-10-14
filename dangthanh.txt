@@ -1,1 +1,9 @@
 Truong Le Dang Thanh - 15DTH03
+#include <stdio.h>
+#include <conio.h>
+void main()
+{
+  clrscr();
+  printf("Thanh dep trai");
+  getch();
+}
